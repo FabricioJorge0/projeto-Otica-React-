@@ -1,0 +1,43 @@
+.topo{
+    width: 100%;
+    margin: 0;
+
+}
+
+.topoComponent{
+    width: 1024px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.imagemTopo{
+    width: auto;
+    height: 50px;
+}
+
+.nav ul{
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+    
+
+}
+
+.nav ul li{
+    display: flex;
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+.nav ul li a{
+    color: #000000;
+    text-decoration: none;
+}
+
+.nav ul li a:hover{
+    text-decoration: underline;
+}
+

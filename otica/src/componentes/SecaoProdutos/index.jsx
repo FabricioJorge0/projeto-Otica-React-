@@ -19,8 +19,8 @@ export default function Produtos(){
                 </div>
                 <div>
                     <h4>Óculos transition</h4>
-                    <Image src={Oculos2} alt="Imagem do oculos 1"/>
-                    <p>R$ 500,00</p>
+                    <Image src={Oculos2} alt="Imagem do oculos 2"/>
+                    <p>R$ 750,00</p>
                 </div>
             </div>
 
