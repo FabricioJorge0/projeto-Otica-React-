@@ -1,0 +1,47 @@
+.cardSobre{
+    max-width: 1024px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0 20px 0;
+
+}
+.titulos{
+    text-align: center;
+
+}
+
+.titulos h3{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+.titulos p{
+    font-size: 19px;
+    margin-bottom: 10px;
+}
+
+
+
+
+.cards{
+    width: 50%px;
+    max-height: 300px;
+    padding: 20px 10px;
+    text-align: center;
+    margin: 20px;
+    box-shadow: 2px 2px 20px -4px #000000;
+    border-radius: 15px;
+}
+
+.cards .imgCard{
+    max-height: 300px;
+    width: 200px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    padding: 20px 10px;
+
+}

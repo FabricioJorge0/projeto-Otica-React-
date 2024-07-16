@@ -1,0 +1,100 @@
+.produto{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    background-color: #fff;
+}
+
+.titulos{
+    text-align: center;
+    background-color: #fff;
+}
+
+.titulos h3{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    background-color: #fff;
+    margin-top: 20px;
+}
+
+.titulos p{
+    font-size: 19px;
+    margin-bottom: 10px;
+    background-color: #fff;
+}
+
+.cardProdutos{
+    max-width: 1024px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0 20px 0;
+    background-color: #fff;
+}
+
+.card{
+    width: 400px;
+    padding: 20px 10px;
+    text-align: center;
+    background-color: #fff;
+    margin: 20px;
+    box-shadow: 2px 2px 20px -4px #000000;
+    border-radius: 15px;
+}
+
+.card h4{
+    font-size: 25px;
+    font-weight: bold;
+    background-color: #fff;
+}
+
+.card .imgCard{
+    width: 200px;
+    height: 180px;
+    margin-bottom: 20px;
+    background-color: #fff;
+    padding: 20px 10px;
+
+}
+
+.card p{
+    font-size: 19px;
+    font-weight: bold;
+    background-color: #fff;
+}
+
+.descricaoProduto{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #fff;
+}
+
+.descricaoProduto h3{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    background-color: #fff;
+}
+
+.listaBen{
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: 200;
+    margin-bottom: 20px;
+    background-color: #fff;
+}
+
+.listaBen li{
+    list-style: none;
+    margin-bottom: 8px;
+    background-color: #fff;
+}
