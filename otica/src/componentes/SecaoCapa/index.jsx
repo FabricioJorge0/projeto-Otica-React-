@@ -1,5 +1,4 @@
 import style from "@/componentes/SecaoCapa/SecaoCapa.module.css"
-import imagemCapa from "@/../public/capa.png"
 
 export default function Capa(){
     return(

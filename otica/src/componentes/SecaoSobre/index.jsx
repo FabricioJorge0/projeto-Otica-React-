@@ -16,11 +16,11 @@ export default function Sobre(){
                 <div className={style.cards}>
                     <Image className={style.imgCard}  src={imagemLoja} />
                 </div>
-                <div className={style.cards}>
+                <div className={style.cards_text}>
                     <h4>Nossas Filiais</h4>
                     <p>Hoje temos mais de 20 filiais pelo Brasil e na América</p>
                 </div >
-                <div className={style.cards}>
+                <div className={style.cards_text}>
                     <h4>Atendimento Flexível</h4>
                     <p>Nossa equipe possui e é treinada para te atender</p>
                 </div>
