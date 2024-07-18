@@ -55,6 +55,11 @@
     width: 80%;
     justify-content: flex-end;
 }
+.fecharBotao{
+    display: none;
+    width: 80%;
+    justify-content: flex-end;
+}
 
 
 .abrir{
@@ -62,6 +67,11 @@
     height: 30px;
 }
 
+@media (max-width: 700px) {
+    .modal{
+        display: none;
+    }
+}
 @media (max-width: 600px) {
 
     .nav{
@@ -73,9 +83,9 @@
         width: 80%;
         justify-content: flex-end;
     }
-    
-    .modal{
-        display: block;
+
+    .botao:hover{
+        cursor: pointer;
     }
 
     .modal ul{
